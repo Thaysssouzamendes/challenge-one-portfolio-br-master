@@ -2,7 +2,7 @@
 ---
 
 <p align ="center" >
-     <img width="600" heigth="600" src="assets/Portifólio.png">
+     <img src="assets/Portifolio.png" width="600" heigth="600">
 </p>
 
 
